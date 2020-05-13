@@ -1,1 +1,0 @@
-Pasta para exercícios de Algoritimos em C++.
