@@ -3,13 +3,13 @@ programa
 	
 	funcao inicio()
 	{
-inteiro anoNasc, anoAtual, idade
-escreva("Ano atual: ")
-leia(anoAtual)
-escreva("Ano de nascimento: ")
-leia(anoNasc)
-idade=anoAtual-anoNasc
-escreva("Você tem ", idade, " anos")
+	inteiro anoNasc, anoAtual, idade
+	escreva("Ano atual: ")
+	leia(anoAtual)
+	escreva("Ano de nascimento: ")
+	leia(anoNasc)
+	idade=anoAtual-anoNasc
+	escreva("Você tem ", idade, " anos")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -17,7 +17,7 @@ escreva("Você tem ", idade, " anos")
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 202; 
+ * @POSICAO-CURSOR = 179; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
